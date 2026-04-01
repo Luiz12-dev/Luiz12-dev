@@ -44,13 +44,17 @@ galaxy_arms:
       - "JUnit & MockMvc"
 
 # Featured projects shown as constellation stars
+# Featured projects shown as constellation stars
 projects:
   - repo: "Luiz12-dev/ecommerce-api"
     arm: 0
     description: "API de E-commerce robusta com máquina de estados para pedidos, Flyway e arquitetura em camadas."
+  - repo: "Luiz12-dev/Mindscribe-api"
+    arm: 0
+    description: "API RESTful do clone do Evernote construída com Spring Boot, focada em persistência e sincronização."
   - repo: "Luiz12-dev/Mindscribe-api-front"
     arm: 1
-    description: "Front-End reativo com Angular e RxJS. Possui gerenciamento de estado e auto-save com debounce time."
+    description: "Front-End reativo com Angular e RxJS. Possui gerenciamento de estado e auto-save otimizado."
   - repo: "Luiz12-dev/Autentica-o-projeto-TCC"
     arm: 2
     description: "Microsserviço de segurança corporativa com Spring Security, JWT, proteção RBAC e testes integrados."
