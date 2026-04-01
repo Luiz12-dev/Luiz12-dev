@@ -1,0 +1,85 @@
+# Your GitHub username (required)
+username: Luiz12-dev
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "Luiz Otávio Almeida"
+  tagline: "Desenvolvedor Back-End | Java & Spring Boot"
+  company: "IFPR - TSI"
+  location: "Paraná, Brasil"
+  bio: |
+    Desenvolvedor analítico e pragmático, focado em arquitetura Back-End, 
+    APIs RESTful seguras e código limpo. Forjado na resiliência para resolver 
+    problemas complexos e movido pelo aprendizado contínuo.
+  philosophy: '"O conhecimento molda a nossa visão de realidade e nos permite resolver problemas de diferentes ângulos."'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "aluizotaviodealmeida@gmail.com"
+  linkedin: "luiz-almeida"
+  website: "https://github.com/Luiz12-dev"
+
+# Galaxy arms represent your core focus areas
+galaxy_arms:
+  - name: "Back-End & Arquitetura"
+    color: "synapse_cyan"
+    items:
+      - "Java"
+      - "Spring Boot"
+      - "Spring Security"
+      - "Hibernate/JPA"
+  - name: "Front-End"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "Angular"
+      - "RxJS"
+      - "NestJS"
+  - name: "Dados & Qualidade"
+    color: "axon_amber"
+    items:
+      - "PostgreSQL"
+      - "Docker"
+      - "Flyway"
+      - "JUnit & MockMvc"
+
+# Featured projects shown as constellation stars
+projects:
+  - repo: "Luiz12-dev/ecommerce-api"
+    arm: 0
+    description: "API de E-commerce robusta com máquina de estados para pedidos, Flyway e arquitetura em camadas."
+  - repo: "Luiz12-dev/Mindscribe-api-front"
+    arm: 1
+    description: "Front-End reativo com Angular e RxJS. Possui gerenciamento de estado e auto-save com debounce time."
+  - repo: "Luiz12-dev/Autentica-o-projeto-TCC"
+    arm: 2
+    description: "Microsserviço de segurança corporativa com Spring Security, JWT, proteção RBAC e testes integrados."
+
+# Theme color overrides
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# Stats configuration
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Jupyter Notebook"
+  max_display: 6
