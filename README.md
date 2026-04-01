@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
+
 
 ## 👨‍💻️ Sobre Mim
 
@@ -26,6 +24,10 @@ Tenho me dedicado profundamente ao ecossistema **Back-End**, com foco principal 
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
 <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
