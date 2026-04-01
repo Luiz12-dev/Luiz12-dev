@@ -46,13 +46,17 @@ galaxy_arms:
 
 # Featured projects shown as constellation stars
 # IMPORTANT: Verifique se o nome do repositório está exatamente igual ao que está no seu GitHub
+# Featured projects shown as constellation stars
 projects:
-  - repo: "Luiz12-dev/MindScribe"
-    arm: 1
-    description: "Aplicação Full Stack com Angular, RxJS e Spring Boot. Foco em reatividade e Auto-save otimizado."
-  - repo: "Luiz12-dev/Auth-API"
+  - repo: "Luiz12-dev/ecommerce-api"
     arm: 0
-    description: "Microsserviço de segurança com Spring Security, JWT, proteção RBAC e Testes de Integração automatizados."
+    description: "API de E-commerce robusta com máquina de estados para pedidos, Flyway e arquitetura em camadas."
+  - repo: "Luiz12-dev/Mindscribe-api-front"
+    arm: 1
+    description: "Front-End reativo com Angular e RxJS. Possui gerenciamento de estado e auto-save com debounce time."
+  - repo: "Luiz12-dev/Autentica-o-projeto-TCC"
+    arm: 2
+    description: "Microsserviço de segurança corporativa com Spring Security, JWT, proteção RBAC e testes integrados."
 
 # Theme color overrides (optional — defaults to deep space palette)
 theme:
